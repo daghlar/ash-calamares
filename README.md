@@ -1,0 +1,2 @@
+# Buildra Calamares configuration
+
