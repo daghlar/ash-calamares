@@ -1,8 +1,8 @@
-# Buildra calamares config
+# Ash Linux calamares config
 
-![Buildra Logo](buildra.jpg)
+![Ash Linux Logo](sololeveling.jpg)
 
-**Buildra** is a customizable Arch Linux ISO builder based on the [KIRO](https://github.com/kirodubes) project. It provides a simple way to build your own Arch-based installation medium with your choice of packages, settings, and scripts. Compare the configs and search for references like ArcoLinux, arcolinux, kiro, arconet and ArcoNet and change them to Buildra in this case. Use tools like rg (from ripgrep) and meld to compare.
+**Ash Linux** is a customizable Arch Linux ISO builder. It provides a simple way to build your own Arch-based installation medium with your choice of packages, settings, and scripts.
 
 ## 🚀 Features
 
@@ -18,7 +18,7 @@
 - Arch Linux or Arch-based system (for building)
 - `archiso` package
 - Basic familiarity with Bash scripting and package management
-- Knowledge how to build ISOs - https://www.arcolinuxiso.com/a-comprehensive-guide-to-iso-building/
+- Knowledge how to build ISOs - https://wiki.archlinux.org/title/Archiso
 - The ULTIMATE video to build your ISO is here
 
-[![Buildra Demo](https://img.youtube.com/vi/3jdKH6bLgUE/0.jpg)](https://youtu.be/3jdKH6bLgUE)
+[![Ash Linux Demo](https://img.youtube.com/vi/3jdKH6bLgUE/0.jpg)](https://youtu.be/3jdKH6bLgUE)

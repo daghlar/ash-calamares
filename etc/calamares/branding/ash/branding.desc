@@ -8,7 +8,7 @@
 # Additional styling can be done using the stylesheet.qss
 # file, also in the branding directory.
 ---
-componentName:  buildra
+componentName:  ash
 
 
 ### WELCOME / OVERALL WORDING
@@ -121,13 +121,13 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         buildra
-    shortProductName:    buildra
-    version:             3.0
-    shortVersion:        3.0
-    versionedName:       buildra
-    shortVersionedName:  buildra
-    bootloaderEntryName: buildra
+    productName:         Ash Linux
+    shortProductName:    Ash
+    version:             1.0
+    shortVersion:        1.0
+    versionedName:       Ash Linux
+    shortVersionedName:  Ash
+    bootloaderEntryName: Ash Linux
 
 # These images are loaded from the branding module directory.
 #
