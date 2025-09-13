@@ -19,6 +19,5 @@
 - `archiso` package
 - Basic familiarity with Bash scripting and package management
 - Knowledge how to build ISOs - https://wiki.archlinux.org/title/Archiso
-- The ULTIMATE video to build your ISO is here
+-
 
-[![Ash Linux Demo](https://img.youtube.com/vi/3jdKH6bLgUE/0.jpg)](https://youtu.be/3jdKH6bLgUE)
